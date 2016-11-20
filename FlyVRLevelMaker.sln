@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyVRLevelMaker.CSharp.Plugins", "FlyVRLevelMaker.CSharp.Plugins.csproj", "{27B9F06E-D118-F73F-9878-7C2475605D49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyVRLevelMaker.CSharp", "FlyVRLevelMaker.CSharp.csproj", "{90982B94-2DD6-6956-A613-08EA50A36448}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyVRLevelMaker.CSharp.Editor", "FlyVRLevelMaker.CSharp.Editor.csproj", "{26DF7833-0785-F5E9-5F75-9693CCA8782C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27B9F06E-D118-F73F-9878-7C2475605D49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27B9F06E-D118-F73F-9878-7C2475605D49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27B9F06E-D118-F73F-9878-7C2475605D49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27B9F06E-D118-F73F-9878-7C2475605D49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90982B94-2DD6-6956-A613-08EA50A36448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90982B94-2DD6-6956-A613-08EA50A36448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90982B94-2DD6-6956-A613-08EA50A36448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90982B94-2DD6-6956-A613-08EA50A36448}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26DF7833-0785-F5E9-5F75-9693CCA8782C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26DF7833-0785-F5E9-5F75-9693CCA8782C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26DF7833-0785-F5E9-5F75-9693CCA8782C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26DF7833-0785-F5E9-5F75-9693CCA8782C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
